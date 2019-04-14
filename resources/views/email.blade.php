@@ -332,7 +332,7 @@
                     <table border="0" cellpadding="0" cellspacing="0">
                         <tr>
                             <td class="content-block">
-                                <span class="apple-link">Rumahweb Inc</span>
+                                <span class="apple-link">Rumahweb Indonesia</span>
                                 {{--<br> Don't like these emails? <a href="http://i.imgur.com/CScmqnj.gif">Unsubscribe</a>.--}}
                             </td>
                         </tr>
