@@ -8,7 +8,7 @@
             <h1>Rumahweb -  Tutorial Laravel </h1>
             <p>Apa saja yang akan kamu pelajari ?</p>
 
-            <h2>* Kirim E-mail dengan Laravel  (Soon)</h2>
+            <h2>* Kirim E-mail dengan Laravel  /email </h2>
         </div>
         <!-- /.content -->
     </section>
